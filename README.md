@@ -1,5 +1,5 @@
 # clic_pre_damping_ring_xsuite
-This is an example of the pre-damping ring of clic. The lattice build, matching, equilibirium parameters extraction are all done in Xsuite. Two different wiggler models are included; a hard-edge and a sinusoidal wiggler model, both provided by Xsuite elements.
+This is an example of the pre-damping ring of clic. The lattice build, matching and equilibirium parameters calculation are done using Xsuite. Two different wiggler models are included; a hard-edge and a sinusoidal wiggler model, both provided by Xsuite elements.
 
 Dependencies:
 - python: 3.11.15
