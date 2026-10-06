@@ -161,7 +161,7 @@ env.new_line(
 env['nwigg'] = 36
 env["wigglerperiod"] = 0.3                       # [m]
 env["polelength"] = env["wigglerperiod"] / 4.0   # [m]
-env["wigangle"] = env["polelength"] * env["bw"] / (3.356 * env["en"])  # wiggler bend [rad]
+env["wigangle"] = env["polelength"] * env["bw"] / (3.3356 * env["en"])  # wiggler bend [rad]
 
 #########################################
 # wiggler poles (hard-edge model)
